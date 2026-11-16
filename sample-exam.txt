@@ -1,0 +1,20 @@
+Web Basics Quiz
+
+1. What does HTML stand for?
+A. Hyper Text Markup Language
+B. High Tech Modern Language
+C. Home Tool Markup Language
+Answer: A
+
+2. Which GitHub feature hosts static websites for free?
+A. GitHub Actions
+B. GitHub Pages
+C. GitHub Copilot
+Answer: B
+
+3. Which language adds interactivity to web pages?
+A. CSS
+B. JavaScript
+C. SQL
+D. YAML
+Answer: B
